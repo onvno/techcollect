@@ -16,6 +16,7 @@
 * [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
 * [Mixu's Node book](http://book.mixu.net/node/index.html)
 * [art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node)
+* [Node.js 概述－阮一峰](http://javascript.ruanyifeng.com/nodejs/basic.html#toc0)
 
 ---
 
@@ -28,6 +29,12 @@
 
 ### ES6
 * [ES6特性概述](http://www.cnblogs.com/Wayou/p/es6_new_features.html)
-* [Node.js 概述－阮一峰](http://javascript.ruanyifeng.com/nodejs/basic.html#toc0)
+* [ECMAScript 6 入门 - 阮一峰](http://es6.ruanyifeng.com/#docs/let)
 
 ---
+
+### 模块
+* [REQUIREJS API](http://www.requirejs.cn/docs/api.html)
+
+---
+
