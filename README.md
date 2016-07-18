@@ -6,6 +6,12 @@
 
 ---
 
+### 前端他汇总
+* [大前端工具集](https://github.com/nieweidong/fetool)
+* [前端收集](https://github.com/wendycan/front-end-collect)
+
+---
+
 ### Node
 * [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
 * [Mixu's Node book](http://book.mixu.net/node/index.html)
