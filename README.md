@@ -1,5 +1,5 @@
 ### 全技术博客
-[粉丝日志](http://blog.fens.me/) 跨界it博客
+* [粉丝日志](http://blog.fens.me/) 跨界it博客
 
 ### 技术文档
 * [devdocs](http://devdocs.io/)
