@@ -22,5 +22,6 @@
 
 ### ES6
 * [ES6特性概述](http://www.cnblogs.com/Wayou/p/es6_new_features.html)
+* [Node.js 概述－阮一峰](http://javascript.ruanyifeng.com/nodejs/basic.html#toc0)
 
 ---
