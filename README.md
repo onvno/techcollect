@@ -1,5 +1,6 @@
 ### 全技术博客
 * [粉丝日志](http://blog.fens.me/) 跨界it博客
+* [Hacks Blog](https://hacks.mozilla.org/) Firefox Hacks博客
 
 ### 技术文档
 * [devdocs](http://devdocs.io/)
