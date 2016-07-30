@@ -3,6 +3,8 @@
 
 ### 技术文档
 * [devdocs](http://devdocs.io/)
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
