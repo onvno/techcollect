@@ -21,6 +21,12 @@
 * [小众软件](http://www.appinn.com/)
 * [异次元软件世界](http://www.iplaysoft.com/)
 
+___
+
+### 在读书籍
+* [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details)
+* [node-js-in-practice]
+
 ### 文章
 * [Make the Web Work For Everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 * [What blogs are recommended for Node.js news and information?](https://www.quora.com/What-blogs-are-recommended-for-Node-js-news-and-information)
