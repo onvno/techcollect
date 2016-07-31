@@ -15,5 +15,11 @@
 
 ---
 
+### 工具推荐
+* [Mactalk](https://zhuanlan.zhihu.com/mactalk)
+* [一介布衣](http://yijiebuyi.com/)
+* [小众软件](http://www.appinn.com/)
+* [异次元软件世界](http://www.iplaysoft.com/)
+
 ### 文章
 * [Make the Web Work For Everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
