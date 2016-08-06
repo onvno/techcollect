@@ -12,6 +12,8 @@
 ### 前端他汇总
 * [大前端工具集](https://github.com/nieweidong/fetool)
 * [前端收集](https://github.com/wendycan/front-end-collect)
+* [A badass list of frontend development resources](https://gist.github.com/dypsilon/5819504)
+* [Frontend Tools](http://fredsarmento.me/frontend-tools/)
 
 ---
 
