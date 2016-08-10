@@ -44,4 +44,5 @@ var fs = require('fs'),
 
 ## webpack babel执行报错
 **问题是会反馈其他文件夹`package.json`文件错误，无稽之谈**
-isuue解决办法：
+
+isuue解决办法：https://github.com/facebook/flow/issues/353
