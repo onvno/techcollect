@@ -46,3 +46,7 @@ var fs = require('fs'),
 **问题是会反馈其他文件夹`package.json`文件错误，无稽之谈**
 
 isuue解决办法：https://github.com/facebook/flow/issues/353
+
+## webpack推荐教程
+
+[WebpackTutorial](https://github.com/AriaFallah/WebpackTutorial)
