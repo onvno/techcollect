@@ -25,11 +25,16 @@
 
 ___
 
+### 速查表
+* [ECMAScript Compatiable](http://kangax.github.io/compat-table/es6/)
+* [jQuery](http://hemin.cn/jq/)
+
+---
 ### 读书
 * [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details)
 * [node-js-in-practice]
 * [计算机程序的构造和解释](https://www.amazon.cn/gp/aw/d/B0011AP7RY?pc_redir=T1&tag=rnwap-20)
-
+---
 ### 文章
 * [Make the Web Work For Everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
 * [What blogs are recommended for Node.js news and information?](https://www.quora.com/What-blogs-are-recommended-for-Node-js-news-and-information)
