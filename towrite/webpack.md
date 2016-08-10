@@ -41,3 +41,7 @@ var fs = require('fs'),
 [How to create multiple output paths in Webpack config](http://stackoverflow.com/questions/35903246/how-to-create-multiple-output-paths-in-webpack-config)
 
 [The need for multiple output paths?](https://github.com/webpack/webpack/issues/1189)
+
+## webpack babel执行报错
+**问题是会反馈其他文件夹`package.json`文件错误，无稽之谈**
+isuue解决办法：
