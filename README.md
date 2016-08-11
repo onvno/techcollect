@@ -1,8 +1,12 @@
-### 全技术博客
-* [粉丝日志](http://blog.fens.me/) 跨界it博客
-* [Hacks Blog](https://hacks.mozilla.org/) Firefox Hacks博客
+### 博客
+* [博客](blog.md)
+
+### 文章
+
+- [文章](article.md)
 
 ### 技术文档
+
 * [devdocs](http://devdocs.io/)
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -34,9 +38,7 @@ ___
 * [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details)
 * [node-js-in-practice]
 * [计算机程序的构造和解释](https://www.amazon.cn/gp/aw/d/B0011AP7RY?pc_redir=T1&tag=rnwap-20)
+
 ---
-### 文章
-* [Make the Web Work For Everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/)
-* [What blogs are recommended for Node.js news and information?](https://www.quora.com/What-blogs-are-recommended-for-Node-js-news-and-information)
 
 
