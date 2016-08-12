@@ -41,6 +41,12 @@ import * as cows from "cows";
 
 ```
 
+**实践**
+
+```
+import * as neoui from 'neoui/js/index';
+```
+会自动在原有输出外包含一层`neoui`,如原输出`u`,则此时`neui.u`为实际真正需要的输出
 
 
 http://www.one-tab.com/page/2lSNjcIWStqnXoc0_FkMTQ
