@@ -88,6 +88,24 @@ basepath=$(cd `dirname $0`; pwd)
 
 
 
+### shell返回值:get shell return value
+
+* [returning value from called function in shell script](http://stackoverflow.com/questions/8742783/returning-value-from-called-function-in-shell-script)
+
+* linux shell中如何接收程序返回值
+
+  $?
+  $?就是表示上一次脚本或者命令退出时的返回值。通常，0代表成功；非0代表出现错误。
+  类似的一些符号如$0 $1 $2 $@ $# 。
+
+* [从shell脚本返回内容提取想要的字符串数据？](http://bbs.chinaunix.net/thread-4170442-1-1.html)
+
+
+  ```
+  查看链接示例
+  ```
+
+  ​
 
 
 
