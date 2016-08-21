@@ -32,6 +32,7 @@ ___
 ### 速查表
 * [ECMAScript Compatiable](http://kangax.github.io/compat-table/es6/)
 * [jQuery](http://hemin.cn/jq/)
+* [ES6速查及实例](http://es6-features.org/#Constants)
 
 ---
 ### 读书
