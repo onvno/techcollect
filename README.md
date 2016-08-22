@@ -18,6 +18,8 @@
 * [前端收集](https://github.com/wendycan/front-end-collect)
 * [A badass list of frontend development resources](https://gist.github.com/dypsilon/5819504)
 * [Frontend Tools](http://fredsarmento.me/frontend-tools/)
+* [前端常用在线工具汇总](http://www.bejson.com/)
+* [css88前端工具博客](http://www.css88.com/archives/category/develop-message/develop-tool)
 
 ---
 
@@ -33,6 +35,8 @@ ___
 * [ECMAScript Compatiable](http://kangax.github.io/compat-table/es6/)
 * [jQuery](http://hemin.cn/jq/)
 * [ES6速查及实例](http://es6-features.org/#Constants)
+* [字符串拼接](http://www.css88.com/tool/html2js/)
+* [javascript常用方法函数收集](http://www.css88.com/archives/5180)
 
 ---
 ### 读书
