@@ -1,8 +1,40 @@
 ## shell脚本
 
+> 工作中写generate-uui的shell脚本，以下为心得
+
+### Shell脚本初始
+
+头部添加`#!/bin/sh`,用于指定脚本解释器.
+
+“#!”是一个约定的标记，它告诉系统这个脚本需要什么解释器来执行。
+
+```
+#!/bin/sh
+```
+
+如下，其他语言会有类似
+
+```
+#!/bin/bash
+#!/usr/bin/php
+```
+
+
+
+### Shell脚本执行
+
+```
+sh fetch.sh
+./fetch.sh  //需要加./,表示当前路径，否则因为路径不在环境变量中，linux不识别
+```
+
+
+
 ###[Shell 变量](http://www.runoob.com/linux/linux-shell-variable.html)
+
 * 定义变量时，变量名不加美元符号（$，PHP语言中变量需要）
 * 使用一个定义过的变量，只要在变量名前面加美元符号即可
+* 变量名和等号之间不能有空格
 
 
 ```
@@ -13,7 +45,31 @@ echo ${your_name}
 
 
 
-### [shell中的循环语句、判断语句实例](http://www.jb51.net/article/52893.htm)
+### Shell字符串
+
+* 单引号
+
+  ```
+  str='this is a string'
+  ```
+
+  * 单引号里的任何字符都会原样输出，单引号字符串中的变量是无效的
+  * 单引号字串中不能出现单引号（对单引号使用转义符后也不行
+
+* 双引号
+
+  ```
+  your_name='lee'
+  str="Hello, I know your are \"$your_name\"! \n"
+  ```
+
+  * 双引号里可以有变量
+  * 双引号里可以出现转义字符
+
+
+
+
+### 循环
 
 * shell的循环主要有3种，for，while，until
   shell的分支判断主要有2种，if，case
@@ -37,6 +93,91 @@ echo ${your_name}
       cnpm install
   fi
   ```
+
+* for循环
+
+  ```
+  for var in item1 item2 ... itemN
+  do
+      command1
+      command2
+      ...
+      commandN
+  done
+  ```
+
+  或者C风格
+
+  ```
+  for (( EXP1; EXP2; EXP3 ))
+  do
+      command1
+      command2
+      command3
+  done
+  ```
+
+  写成一行命令行输入
+
+  ```
+  for var in item1 item2 ... itemN; do command1; command2… done;
+  ```
+
+  ​
+
+
+### 数组
+
+* 声明数组
+
+  ```
+  # 直接赋值
+  array[0]=”Zero” array[1]=”One” array[2]=”Two”
+
+  # 小括号空格
+  array=(Zero One Two)
+
+  # 引号空格
+  array=”Zero One Two”
+  ```
+
+* 数组长度
+
+  ```
+  echo ${#array[@]}
+  # 或者
+  echo ${#array[*]}
+  ```
+
+* 删除数组元素
+
+  ```
+  # 删除元素
+  unset array[0]
+
+  # 删除数组
+  unset array
+  ```
+
+* 切片
+
+  ```
+  # 从第0个元素开始，截取两个
+  echo ${array[@]:0:2}
+  Zero One
+  ```
+
+* 遍历
+
+  ```
+  # for循环
+  for(( i=0;i<${#array[@]};i++)) do echo ${array[i]}; done;
+
+  # for...in
+  for i in ${array[@]};do echo $i ;done
+  ```
+
+  ​
 
 
 
@@ -105,7 +246,76 @@ basepath=$(cd `dirname $0`; pwd)
   查看链接示例
   ```
 
-  ​
+ 
+
+### 完整例子
+
+```
+#!/bin/sh
+
+cdir=`pwd`
+
+prodName=(
+  "neoui-tree"
+  "neoui-grid"
+)
+
+# 安装依赖包 && 最新kero-adapter包
+modulePre="$cdir/node_modules/"
+moduleName=(
+  "kero-adapter"
+  "neoui-polyfill"
+  )
+
+if [ -d "$modulePre" ]
+then
+  for name in ${moduleName[@]}
+  do
+    modulePath="${modulePre}${name}"
+    if [ -d $modulePath ]
+    then
+      echo "卸载旧版$name"
+      npm uninstall $name
+      echo "安装新版$name"
+      npm install $name
+      echo "已安装成功新版$name"
+    else
+      echo "安装新版$name"
+      npm install $name
+      echo "已安装成功新版$name"
+    fi
+  done
+else
+    npm install
+fi
+
+# 更新下载
+for name in ${prodName[@]}
+do
+  prodDir="$cdir/$name"
+  remoteDir="git@github.com:iuap-design/${name}.git"
+
+  if [ ! -d $prodDir ]
+  then
+    echo "--- 开始下载${name} ---"
+    git clone ${remoteDir}
+  	echo "--- ${name}下载完成~~! ---"
+  fi
+done
+
+# 分支切换到 release
+for name in ${prodName[@]}
+do
+	cd ${name}
+  echo "--- ${name}进行分支切换和代码更新 ---"
+  git checkout release
+  git pull origin release
+  cd ..
+  echo "--- 分支切换和代码更新完成 ---"
+done
+```
+
+ 
 
 
 
@@ -120,3 +330,12 @@ basepath=$(cd `dirname $0`; pwd)
 [ "$a" = "$b" ] ：判断$a和$b是否相等
 ```
 
+* [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+
+
+
+拓展阅读
+
+* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)，非常详细，非常易读，大量example，既可以当入门教材，也可以当做工具书查阅
+* [Unix Shell Programming](http://www.tutorialspoint.com/unix/unix-shell.htm)
+* [Linux Shell Scripting Tutorial - A Beginner's handbook](http://bash.cyberciti.biz/guide/Main_Page)
