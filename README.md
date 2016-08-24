@@ -47,4 +47,7 @@ ___
 
 ---
 
+###视频学习
 
+* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)油管，分类node,jsde等
+* ​
