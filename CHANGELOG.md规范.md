@@ -14,4 +14,29 @@ chore：构建过程或辅助工具的变动
 
 
 
-new line
+安装
+
+```
+$ npm install -g commitizen
+```
+
+
+
+支持 Angular 的 Commit message
+
+```
+$ commitizen init cz-conventional-changelog --save --save-exact
+```
+
+
+
+生成changelog
+
+```
+$ npm install -g conventional-changelog-cli
+$ cd my-project
+$ conventional-changelog -p angular -i CHANGELOG.md -s
+```
+
+
+
