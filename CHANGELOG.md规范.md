@@ -35,8 +35,10 @@ $ commitizen init cz-conventional-changelog --save --save-exact
 ```
 $ npm install -g conventional-changelog-cli
 $ cd my-project
-$ conventional-changelog -p angular -i CHANGELOG.md -s
+$ conventional-changelog -p angular -i CHANGELOG.md -s -r 0
 ```
+
+
 
 
 
