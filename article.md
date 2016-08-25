@@ -21,11 +21,11 @@
 * [前端开发装逼手册](http://www.css88.com/archives/6190#more-6190):虽为装逼，很多都是要学习的
 * [2016/2017 Web 开发者路线图](https://zhuanlan.zhihu.com/p/22080792)
 * [ES6 Generator 初体验](http://mp.weixin.qq.com/s?__biz=MzI5NTE0MzEwMg==&mid=2247483680&idx=1&sn=d4b6bd0b7bce1435030d44bb239409af&scene=23&srcid=0523kjGz2W8P5SEBx7FbfAPi#rd),配合文末两个youtube[视频1](https://youtu.be/obaSQBBWZLk?list=UUVTlvUkGslCV_h-nSAId8Sw),[视频2](https://www.youtube.com/watch?v=QO07THdLWQo)
->>>>>>> fac472c2f3b006d7ae394fcc90ce3ed891f24a22
 
 
+### Commander.js使用
 
-
+* [Conquering Commander.js](http://slides.com/timsanteford/conquering-commander-js#/)ppt介绍
 
 
 ### Node进程管理
