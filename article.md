@@ -29,3 +29,9 @@
 * [关于node.js的进程管理](http://www.alloyteam.com/2014/11/guan-yu-node-js-di-jin-cheng-guan-li/)
 * [告别node-forever,拥抱PM2](https://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 * [Node.js: managing child processes](http://krasimirtsonev.com/blog/article/Nodejs-managing-child-processes-starting-stopping-exec-spawn)
+
+
+
+### 工具使用
+
+* [geeknote 使用心得](https://www.zybuluo.com/youjustdoit/note/52143)一款python写成的命令行编辑器，依赖印象笔记
