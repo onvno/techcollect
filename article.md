@@ -37,6 +37,18 @@
 
 
 
+
+### 命令行工具
+
+* [实用命令行工具详解(一)—curl](http://blogread.cn/it/article/7085?f=hot1&utm_source=tuicool&utm_medium=referral)下边有其他命令行工具介绍
+* [cURL官网－相关工具](List Of Related Tools)
+* [youtube-Top 5 Network Tools in the Command Line](https://www.youtube.com/watch?v=kUEIRcvOiuo)介绍了ping,traceroute,dig,iftop,whois
+* [每天一个linux命令目录](http://www.cnblogs.com/peida/archive/2012/12/05/2803591.html)
+
+
+
+
+
 ### 工具使用
 
 * [geeknote 使用心得](https://www.zybuluo.com/youjustdoit/note/52143)一款python写成的命令行编辑器，依赖印象笔记
