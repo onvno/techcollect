@@ -18,9 +18,14 @@
 * [没有鼠标的日子多亏了我精湛的手操，各种快捷键分享](http://www.cnblogs.com/Wayou/p/shortcuts.html)
 
 * [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652):需要学习此部分，测试了部分代码在文章es6-异步中
+
 * [前端开发装逼手册](http://www.css88.com/archives/6190#more-6190):虽为装逼，很多都是要学习的
+
 * [2016/2017 Web 开发者路线图](https://zhuanlan.zhihu.com/p/22080792)
+
 * [ES6 Generator 初体验](http://mp.weixin.qq.com/s?__biz=MzI5NTE0MzEwMg==&mid=2247483680&idx=1&sn=d4b6bd0b7bce1435030d44bb239409af&scene=23&srcid=0523kjGz2W8P5SEBx7FbfAPi#rd),配合文末两个youtube[视频1](https://youtu.be/obaSQBBWZLk?list=UUVTlvUkGslCV_h-nSAId8Sw),[视频2](https://www.youtube.com/watch?v=QO07THdLWQo)
+
+* [What is the difference between a URI, a URL and a URN?](http://stackoverflow.com/questions/176264/what-is-the-difference-between-a-uri-a-url-and-a-urn)关于URI,URL,URN的区别
 
 
 ### Commander.js使用
@@ -34,6 +39,14 @@
 * [关于node.js的进程管理](http://www.alloyteam.com/2014/11/guan-yu-node-js-di-jin-cheng-guan-li/)
 * [告别node-forever,拥抱PM2](https://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 * [Node.js: managing child processes](http://krasimirtsonev.com/blog/article/Nodejs-managing-child-processes-starting-stopping-exec-spawn)
+
+
+
+
+### Node服务器
+
+* [Building A Server-Side Application With Async Functions and Koa 2](https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/)
+
 
 
 
