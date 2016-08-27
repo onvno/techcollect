@@ -24,3 +24,7 @@
 
 ***
 
+#### 其他
+
+* [which](https://www.npmjs.com/package/which):目前用于判断是否有安装cnpm,nam,有先选用cnpm,[示例地址](https://github.com/onvno/codesnippets/blob/master/which-%E5%88%A4%E6%96%AD%E6%98%AF%E5%90%A6%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85cnpm/index.js)
+

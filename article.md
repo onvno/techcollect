@@ -12,15 +12,20 @@
 ### 2016.8
 
 * [ES6 的模块系统](https://segmentfault.com/a/1190000003410285)
+
 * [[译\] 让 Webpack 来帮你打包吧](http://blog.zhangjd.me/2016/06/19/webpack-your-bags/)
+
 * [没有鼠标的日子多亏了我精湛的手操，各种快捷键分享](http://www.cnblogs.com/Wayou/p/shortcuts.html)
+
 * [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652):需要学习此部分，测试了部分代码在文章es6-异步中
 * [前端开发装逼手册](http://www.css88.com/archives/6190#more-6190):虽为装逼，很多都是要学习的
+* [2016/2017 Web 开发者路线图](https://zhuanlan.zhihu.com/p/22080792)
 * [ES6 Generator 初体验](http://mp.weixin.qq.com/s?__biz=MzI5NTE0MzEwMg==&mid=2247483680&idx=1&sn=d4b6bd0b7bce1435030d44bb239409af&scene=23&srcid=0523kjGz2W8P5SEBx7FbfAPi#rd),配合文末两个youtube[视频1](https://youtu.be/obaSQBBWZLk?list=UUVTlvUkGslCV_h-nSAId8Sw),[视频2](https://www.youtube.com/watch?v=QO07THdLWQo)
 
 
+### Commander.js使用
 
-
+* [Conquering Commander.js](http://slides.com/timsanteford/conquering-commander-js#/)ppt介绍
 
 
 ### Node进程管理
