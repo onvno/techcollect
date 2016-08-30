@@ -1,5 +1,13 @@
 ## blog
 
+### 资讯站点
+* [sitepoint](https://www.sitepoint.com/)
+* [DZone](https://dzone.com/)
+* [devshed](http://www.devshed.com/#inbox/_blank)社区，会有热度排名
+
+
+
+
 ### 团队博客
 
 * [腾讯AlloyTeam全端团队](http://www.alloyteam.com/)

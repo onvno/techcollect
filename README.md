@@ -44,6 +44,7 @@ ___
 * [node-js-in-practice]
 * [计算机程序的构造和解释](https://www.amazon.cn/gp/aw/d/B0011AP7RY?pc_redir=T1&tag=rnwap-20)
 * [Linux C编程一站式学习](http://docs.linuxtone.org/ebooks/C&CPP/c/)
+* 松本行弘的程序世界
 
 ---
 
