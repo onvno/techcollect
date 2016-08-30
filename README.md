@@ -47,7 +47,7 @@ ___
 
 ---
 
-###视频学习
+###学习
 
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)油管，分类node,jsde等
-* ​
+* [FreeCodeCamp](https://www.freecodecamp.com/)从前到后的实战 & 证书
