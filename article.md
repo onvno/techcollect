@@ -59,3 +59,10 @@
 ### 工具使用
 
 * [geeknote 使用心得](https://www.zybuluo.com/youjustdoit/note/52143)一款python写成的命令行编辑器，依赖印象笔记
+
+
+
+
+### 正则表达式
+
+* [正则表达式语法](https://msdn.microsoft.com/zh-cn/library/ae5bf541(v=vs.100).aspx)
