@@ -37,6 +37,7 @@ ___
 * [ES6速查及实例](http://es6-features.org/#Constants)
 * [字符串拼接](http://www.css88.com/tool/html2js/)
 * [javascript常用方法函数收集](http://www.css88.com/archives/5180)
+* [在线正则表达式测试](http://tool.oschina.net/regex/)
 
 ---
 ### 读书
