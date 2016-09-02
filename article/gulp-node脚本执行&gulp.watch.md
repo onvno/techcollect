@@ -55,3 +55,11 @@ gulp.task('watch', function(){
 ```
 
 代码地址：[链接](https://github.com/onvno/codesnippets/tree/master/gulp-watch-node)
+
+
+
+参考链接：
+
+* [Invoking the Gulp tool programmatically](https://github.com/gulpjs/gulp/issues/770)
+* [What is gulp.start?](https://github.com/gulpjs/gulp/issues/426)
+* ​
