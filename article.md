@@ -22,6 +22,12 @@
 * [如何在一年之内通过自学找到Web开发工作](https://zhuanlan.zhihu.com/p/22213177)：介绍FCC，从文章中获得到一个问答[有什么利于锻炼技术好玩儿的网站项目？给推荐有完整网站项目的书也成？](https://www.zhihu.com/question/49725611)
 
 
+
+
+### 2016.9
+
+* [开发者MAC电脑里的十八般兵器](http://www.figotan.org/2016/07/12/dev-macpro-arms/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io):命令行工具和抓包下载了试试，vim还没用
+
 ### Commander.js使用
 
 * [Conquering Commander.js](http://slides.com/timsanteford/conquering-commander-js#/)ppt介绍

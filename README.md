@@ -28,6 +28,7 @@
 * [一介布衣](http://yijiebuyi.com/)
 * [小众软件](http://www.appinn.com/)
 * [异次元软件世界](http://www.iplaysoft.com/)
+* [waitsun](http://www.waitsun.com/)
 
 ___
 

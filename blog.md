@@ -8,6 +8,15 @@
 
 
 
+### RSS订阅地址
+
+* [Rss地址搜索](http://ctrlq.org/rss/)
+
+
+* [Rss-IT人](https://github.com/Gracker/Rss-IT)
+
+
+
 ### 团队博客
 
 * [腾讯AlloyTeam全端团队](http://www.alloyteam.com/)
@@ -34,5 +43,8 @@
 ### 全技术博客
 
 - [粉丝日志](http://blog.fens.me/) 跨界it博客
+
 - [Hacks Blog](https://hacks.mozilla.org/) Firefox Hacks博客
+
+  ​
 
