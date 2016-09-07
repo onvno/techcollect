@@ -19,3 +19,10 @@
 * [Data binding code in 9 JavaScript frameworks](http://engineering.paiza.io/entry/2015/03/12/145216)]9种框架数据绑定方法
 * [JavaScript 实现简单的双向数据绑定](http://www.oschina.net/translate/easy-two-way-data-binding-in-javascript?cmp)中英双文
 * [自己动手写Knockoutjs - 实现基本的双向数据绑定](https://github.com/iuap-design/blog/issues/30):公司内部博客
+
+
+
+注意事项：
+
+* **Object.observe()**已经在Chrome52彻底移除：
+>  Deprecated in Chrome 49 and flagged off in Chrome 50 and entirely removed in Chrome 52
