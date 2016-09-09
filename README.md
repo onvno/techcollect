@@ -56,3 +56,13 @@ ___
 
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)油管，分类node,jsde等
 * [FreeCodeCamp](https://www.freecodecamp.com/)从前到后的实战 & 证书
+
+
+
+***
+
+### 设计
+
+* [Awesome Design Collect](https://github.com/gztchan/awesome-design)在程序的宇宙中心呼唤设计
+
+  ​
