@@ -13,13 +13,14 @@
 
 ---
 
-### 前端他汇总
+### 工具汇总
 * [大前端工具集](https://github.com/nieweidong/fetool)
 * [前端收集](https://github.com/wendycan/front-end-collect)
 * [A badass list of frontend development resources](https://gist.github.com/dypsilon/5819504)
 * [Frontend Tools](http://fredsarmento.me/frontend-tools/)
 * [前端常用在线工具汇总](http://www.bejson.com/)
 * [css88前端工具博客](http://www.css88.com/archives/category/develop-message/develop-tool)
+* [Best-App](https://github.com/hzlzh/Best-App):收集&推荐优秀的 Apps/硬件/技巧/周边等
 
 ---
 
@@ -56,7 +57,6 @@ ___
 
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)油管，分类node,jsde等
 * [FreeCodeCamp](https://www.freecodecamp.com/)从前到后的实战 & 证书
-
 
 
 ***
