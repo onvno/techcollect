@@ -21,6 +21,7 @@
 * [前端常用在线工具汇总](http://www.bejson.com/)
 * [css88前端工具博客](http://www.css88.com/archives/category/develop-message/develop-tool)
 * [Best-App](https://github.com/hzlzh/Best-App):收集&推荐优秀的 Apps/硬件/技巧/周边等
+* [frontend-dev-bookmarks](https://github.com/Sneezry/frontend-dev-bookmarks)一个目前在微软前端搜集的信息
 
 ---
 
