@@ -6,5 +6,7 @@
 * 天天美剧ttmeiju
 * [picktorrent](http://www.picktorrent.com/)
 * [看看豆](http://kankandou.com/):电子书
+* [38DY](http://www.38dy.cn/?logo):电影
+* [Kindle伴侣](http://kindlefere.com/)
 
 
