@@ -74,6 +74,8 @@ echo ${your_name}
 * shell的循环主要有3种，for，while，until
   shell的分支判断主要有2种，if，case
 
+  if判断条件注意`[]`内变量需要与括号有空格，判断等于否，只需要一个`=`号即可
+
   ```
   if [ -d "$moduleDir" ]
     then
@@ -178,6 +180,37 @@ echo ${your_name}
   ```
 
   ​
+
+
+### 获取文件名及后缀名 [实例](http://blog.sina.com.cn/s/blog_69b31b1d0101dhni.html)
+
+```bash
+file=”thisfile.txt”
+echo “filename: ${file%.*}”
+echo “extension: ${file##*.}”
+输出：
+filename: thisfile
+extension: txt
+```
+
+
+
+### 字符串连接
+
+无需“+”，直接`"$name/test.html"`
+
+
+
+### 替换文件中的字符串
+
+资料`sed -i -- 's/foo/bar/g' *`方法报错[SO链接](http://unix.stackexchange.com/questions/112023/how-can-i-replace-a-string-in-a-files)，目前使用如下
+
+```
+$sed -ig 's/tatic/static/' a.txt
+```
+
+
+
 
 
 
