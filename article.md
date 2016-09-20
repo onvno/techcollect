@@ -43,6 +43,18 @@
 
 
 
+### NPM
+
+* [npm中文文档](http://coloration.cc/npmjs-documentation/)
+
+
+* [npm v3 依赖解决方案](http://coloration.cc/npmjs-documentation/2016/03/29/npmV3.html):平行依赖
+* [npm v2 依赖解决方案](http://coloration.cc/npmjs-documentation/2016/03/29/npmV2.html)
+
+
+
+
+
 ### Node服务器
 
 * [Building A Server-Side Application With Async Functions and Koa 2](https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/)
@@ -57,6 +69,7 @@
 * [cURL官网－相关工具](List Of Related Tools)
 * [youtube-Top 5 Network Tools in the Command Line](https://www.youtube.com/watch?v=kUEIRcvOiuo)介绍了ping,traceroute,dig,iftop,whois
 * [推荐给开发人员的6个实用命令行工具](http://blog.jobbole.com/30251/)
+* [linux shell 自定义函数(定义、返回值、变量作用域）介绍](http://www.cnblogs.com/chengmo/archive/2010/10/17/1853356.html)
 
 
 
