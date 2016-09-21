@@ -11,6 +11,24 @@
 
 
 
+#### 各语言md转html
+
+*Python*
+
+* [grip](https://github.com/joeyespo/grip):python,调用github API接口[Markdown](https://developer.github.com/v3/markdown/)
+
+
+*Javascript*
+
+* [marked](https://github.com/chjj/marked)
+* [markdown-it](https://github.com/markdown-it/markdown-it)
+
+
+*Haskell*
+
+* [pandoc](https://github.com/jgm/pandoc)
+
+
 #### 论坛收集
 
 [写好的Markdown怎么生成HTML?](https://www.v2ex.com/t/52158)
