@@ -446,6 +446,18 @@ do
 done < "$filename"
 ```
 
+同样的方法，也会存在标点读取不到:[链接](http://stackoverflow.com/questions/1521462/looping-through-the-content-of-a-file-in-bash)
+
+```shell
+while read p; do
+  echo $p
+done <peptides.txt
+```
+
+
+
+
+
 
 
 ### 清空文件几种方法
@@ -548,3 +560,5 @@ $ cat file >> copy_file //添加内容，不覆盖原有
 **文章**
 
 * [linux shell 自定义函数(定义、返回值、变量作用域）介绍](http://www.cnblogs.com/chengmo/archive/2010/10/17/1853356.html)
+
+* [Looping through the content of a file in Bash?](http://stackoverflow.com/questions/1521462/looping-through-the-content-of-a-file-in-bash)
