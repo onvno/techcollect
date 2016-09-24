@@ -48,5 +48,5 @@
 
 - [Hacks Blog](https://hacks.mozilla.org/) Firefox Hacks博客
 
-  ​
+- [当然我在扯淡](http://www.yinwang.org/#): 王垠博客
 
