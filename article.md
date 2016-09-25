@@ -28,6 +28,10 @@
 
 * [开发者MAC电脑里的十八般兵器](http://www.figotan.org/2016/07/12/dev-macpro-arms/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io):命令行工具和抓包下载了试试，vim还没用
 * [编程的智慧-王垠](http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io): 很详细&实在的帮助，避免过度追求技艺
+* [每个程序员都应该学习使用 Python 或 Ruby](https://linux.cn/article-4606-1.html):珍爱生命
+* [101 Great Computer Programming Quotes](http://www.devtopics.com/101-great-computer-programming-quotes/):计算机名言警句...
+
+
 
 ### Commander.js使用
 

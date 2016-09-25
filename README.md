@@ -1,5 +1,7 @@
 ### 博客
 * [博客](blog.md)
+* [xkcd漫画](http://xkcd.com/68/)
+* [wired连线](https://www.wired.com/)
 
 ### 文章
 
@@ -10,6 +12,14 @@
 * [devdocs](http://devdocs.io/)
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+***
+
+### 书籍
+
+* [leanpub](https://leanpub.com/bookstore/earnings_in_last_7_days/all/all)：在线购买电子书
+* [selfstore](https://selfstore.io/): 中文在线购书
+* [gitbook explore](https://www.gitbook.com/explore): gitbook在线电子书
 
 ---
 
