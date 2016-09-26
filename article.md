@@ -90,3 +90,10 @@
 ### 正则表达式
 
 * [正则表达式语法](https://msdn.microsoft.com/zh-cn/library/ae5bf541(v=vs.100).aspx)
+
+
+
+### React
+
+* [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html):阮一峰，入门实战必读
+
