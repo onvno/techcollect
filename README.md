@@ -20,6 +20,7 @@
 * [leanpub](https://leanpub.com/bookstore/earnings_in_last_7_days/all/all)：在线购买电子书
 * [selfstore](https://selfstore.io/): 中文在线购书
 * [gitbook explore](https://www.gitbook.com/explore): gitbook在线电子书
+* [kindle伴侣](http://kindlefere.com/)：介绍电子书网站，内容丰富
 
 ---
 
