@@ -1,5 +1,9 @@
 # Mac快捷键
 
+### 图示
+
+[快捷键图示](http://jingyan.baidu.com/album/08b6a591aac09614a909224f.html?picindex=1)
+
 ### 修饰建：
 
 - Command ⌘
