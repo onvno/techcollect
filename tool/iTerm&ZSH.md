@@ -54,6 +54,36 @@
 
    `node插件`:输入`node-docs http`可快速打开文档
 
+5. 配置ssh脚本:[ ITerm2下使用ssh访问Linux](https://my.oschina.net/u/1765961/blog/366471)
+
+   * 创建脚本，内容如下:<用户名>，<ip地址>，<密码>替换即可
+
+     ```
+      #!/usr/bin/expect -f
+       set user <用户名>
+       set host <ip地址>
+       set password <密码>
+       set timeout -1
+      
+       spawn ssh $user@$host
+       expect "*assword:*"
+       send "$password\r"
+       interact
+       expect eof
+     ```
+
+   * 在iterm的`profile`中选择`command`,输入
+
+     ```
+     expect path/the/shell-script
+     ```
+
+     ​
+
+6. 占位
+
+
+
 
 
 
