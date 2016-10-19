@@ -11,6 +11,8 @@
   * [node-fetch](https://github.com/bitinn/node-fetch): A light-weight module that brings window.fetch to node.js and io.js
   * [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch):Isomorphic WHATWG Fetch API, for Node & Browserify
   * [fetch](https://github.com/github/fetch)针对浏览器的polypill.A window.fetch JavaScript polyfill.
+* chokidar:监听文件夹变化
+* browser-sync
 
 
 ***
