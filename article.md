@@ -33,6 +33,14 @@
 
 
 
+
+### 2016.10
+
+* [js删除数组里的某个元素](http://caibaojian.com/js-splice-element.html)
+
+
+
+
 ### Commander.js使用
 
 * [Conquering Commander.js](http://slides.com/timsanteford/conquering-commander-js#/)ppt介绍
@@ -97,3 +105,11 @@
 
 * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html):阮一峰，入门实战必读
 
+
+
+
+### Async
+
+* [官方文档](http://caolan.github.io/async/)
+* [Async-文章](http://blog.fens.me/nodejs-async/)
+* [Async-demo](https://github.com/bsspirit/async_demo):必看
