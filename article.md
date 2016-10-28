@@ -38,6 +38,8 @@
 
 * [js删除数组里的某个元素](http://caibaojian.com/js-splice-element.html)
 
+* [How to show  tag literally in / tag?](http://stackoverflow.com/questions/11386586/how-to-show-div-tag-literally-in-code-pre-tag)
+
 
 
 

@@ -55,6 +55,8 @@ ___
 * [在线正则表达式测试](http://tool.oschina.net/regex/)
 * [GitBook插件](http://gitbook.zhangjikai.com/plugins.html)
 * [在线JSON校验](http://www.bejson.com/)
+* [在线转义html](http://www.htmlescape.net/htmlescape_tool.html):HTML Escape,npm实现转义的包[escape-html](https://www.npmjs.com/package/escape-html)
+* ​
 
 ---
 ### 读书

@@ -13,6 +13,7 @@
   * [fetch](https://github.com/github/fetch)针对浏览器的polypill.A window.fetch JavaScript polyfill.
 * chokidar:监听文件夹变化
 * browser-sync
+* [escape-html](https://www.npmjs.com/package/escape-html):html转义
 
 
 ***
