@@ -8,5 +8,6 @@
 * [看看豆](http://kankandou.com/):电子书
 * [38DY](http://www.38dy.cn/?logo):电影
 * [Kindle伴侣](http://kindlefere.com/)
+* [美剧看看](http://www.meijukankan.net/index.html)
 
 
