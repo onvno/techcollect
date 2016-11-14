@@ -43,6 +43,25 @@
 
 
 
+### 2016.11
+
+ node进程管理相关
+
+* [pm2 quick start](http://pm2.keymetrics.io/docs/usage/quick-start/#installation)
+* [node-tick记录日志](https://github.com/sidorares/node-tick)
+* [Node.js软肋之CPU密集型任务](http://www.infoq.com/cn/articles/nodejs-weakness-cpu-intensive-tasks)
+* [关于Nodejs的多进程模块Cluster](http://www.cnblogs.com/CodeGuy/archive/2013/05/24/3096601.html)
+
+
+
+
+nginx
+
+* [Nginx开发从入门到精通](http://tengine.taobao.org/book/):淘宝团队
+
+
+
+
 ### Commander.js使用
 
 * [Conquering Commander.js](http://slides.com/timsanteford/conquering-commander-js#/)ppt介绍
@@ -51,9 +70,14 @@
 ### Node进程管理
 
 * [浅谈 Node.js 和 PHP 进程管理](http://taobaofed.org/blog/2015/11/24/nodejs-php-process-manager/)
+
 * [关于node.js的进程管理](http://www.alloyteam.com/2014/11/guan-yu-node-js-di-jin-cheng-guan-li/)
+
 * [告别node-forever,拥抱PM2](https://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
+
 * [Node.js: managing child processes](http://krasimirtsonev.com/blog/article/Nodejs-managing-child-processes-starting-stopping-exec-spawn)
+
+* [pm2进程管理工具使用总结](http://www.07net01.com/2016/10/1681827.html)
 
 
 
