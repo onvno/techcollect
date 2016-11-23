@@ -53,12 +53,14 @@
 * [关于Nodejs的多进程模块Cluster](http://www.cnblogs.com/CodeGuy/archive/2013/05/24/3096601.html)
 
 
-
-
 nginx
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/):淘宝团队
 
+
+linux
+
+* [Linux的五个查找命令](http://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html)
 
 
 
