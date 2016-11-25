@@ -100,3 +100,21 @@ scp username@source:/location/to/file username@destination:/where/to/put
 ```
 
 You can read [`man scp`](http://linux.die.net/man/1/scp) to get more ideas on this.
+
+
+
+#### 开启外网访问端口,[连接](http://blog.csdn.net/hzw2312/article/details/**50247511)
+
+```
+开启允许对外访问的网络端口
+/sbin/iptables -I INPUT -p tcp --dport 8000 -j ACCEPT #开启8000端口 
+```
+
+
+
+#### 查看在监听的端口,[连接](http://askubuntu.com/questions/166068/port-seems-to-be-open-but-connection-refused)
+
+```
+netstat -an | grep "LISTEN "
+```
+
