@@ -78,7 +78,8 @@ var key = process.env.KEY;
 
 * [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
 * [selenium-webdriver官网文档](http://seleniumhq.github.io/selenium/docs/api/javascript/index.html)
-* ​
+* [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)
+* [Selenium Webdriver 基于浏览器的自动化测试](http://sanwen8.cn/p/2c2pwEg.html)
 
 *其他*
 
