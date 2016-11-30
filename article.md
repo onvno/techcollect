@@ -64,6 +64,17 @@ linux
 
 
 
+
+### 2016.12
+
+* [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)阮一峰
+* [聊一聊前端自动化测试](https://github.com/tmallfe/tmallfe.github.io/issues/37)
+
+
+
+
+
+
 ### Commander.js使用
 
 * [Conquering Commander.js](http://slides.com/timsanteford/conquering-commander-js#/)ppt介绍
