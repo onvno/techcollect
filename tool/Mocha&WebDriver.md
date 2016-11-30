@@ -80,7 +80,10 @@ var key = process.env.KEY;
 * [selenium-webdriver官网文档](http://seleniumhq.github.io/selenium/docs/api/javascript/index.html)
 * [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)
 * [Selenium Webdriver 基于浏览器的自动化测试](http://sanwen8.cn/p/2c2pwEg.html)
+* [**geckodriver**](https://github.com/mozilla/geckodriver):火狐驱动
 
 *其他*
 
 * [Using JavascriptExecutor to sendKeys plus click on web element](http://stackoverflow.com/questions/31632923/using-javascriptexecutor-to-sendkeys-plus-click-on-web-element)
+* [[How do you use credentials saved by the browser in auto login script in python 2.7?](http://stackoverflow.com/questions/35641019/how-do-you-use-credentials-saved-by-the-browser-in-auto-login-script-in-python-2)保留登陆信息
+* [[Starting chromedriver with saved passwords enabled](http://stackoverflow.com/questions/37544593/starting-chromedriver-with-saved-passwords-enabled)]保留登陆信息java
