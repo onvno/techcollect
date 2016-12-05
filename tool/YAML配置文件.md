@@ -1,6 +1,13 @@
 # YAML配置文件
 
+* 对象层级需要加空格
 
+  ```
+  address:
+      cdn: http://ci.yonyou.com/jenkins/job/iUAP_design_cdn_release_Build_Docker/build?delay=0sec
+  ```
+
+  ​
 
 
 
