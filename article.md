@@ -72,6 +72,7 @@ linux
 * [使用Sinopia搭建私有的npm仓库](https://segmentfault.com/a/1190000005790827)
 * [pm2电子书](https://wohugb.gitbooks.io/pm2/content/)
 * [New npm Tools for Your Nexus Repository Manager Tool Box](http://www.sonatype.org/nexus/2015/11/19/new-npm-tools-for-your-nexus-repository-manager-tool-box/)一篇使用说明
+* [域名解析二级url跳转](http://www.ilanni.com/?p=513)
 
 
 
