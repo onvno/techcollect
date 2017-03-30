@@ -2,6 +2,7 @@
 * [博客](blog.md)
 * [xkcd漫画](http://xkcd.com/68/)
 * [wired连线](https://www.wired.com/)
+* [JS Tips](http://www.jstips.co/)
 
 ### 文章
 
@@ -43,6 +44,7 @@
 * [小众软件](http://www.appinn.com/)
 * [异次元软件世界](http://www.iplaysoft.com/)
 * [waitsun](http://www.waitsun.com/)
+* [WEB资源网](http://webres.wang/)
 
 ___
 
