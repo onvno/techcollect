@@ -46,6 +46,7 @@
 * [waitsun](http://www.waitsun.com/)
 * [WEB资源网](http://webres.wang/)
 * [清单-轻单](https://qdan.me/?from=header)
+* [xclient](http://xclient.info/?_=9a18fb9e89be99ad9e6bd36571d00b76)
 
 ___
 
