@@ -22,6 +22,8 @@
 * [selfstore](https://selfstore.io/): 中文在线购书
 * [gitbook explore](https://www.gitbook.com/explore): gitbook在线电子书
 * [kindle伴侣](http://kindlefere.com/)：介绍电子书网站，内容丰富
+* [kindle推](http://www.kindlepush.com/main)
+* [蜜蜂电子书转换](http://cn.epubee.com/)：品学皆优
 
 ---
 
