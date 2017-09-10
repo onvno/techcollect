@@ -104,3 +104,7 @@ ___
 { "appid": ..., "to": number, "project": ..., "signature": ..., "vars": { "title": "rain" } }
 ```
 * [天气-心知天气](https://www.seniverse.com/doc):附带[知乎:网上的天气 API 哪一个更加可靠？](https://www.zhihu.com/question/20575288)
+```
+明日天气预报请求字段
+https://api.seniverse.com/v3/weather/daily.json?key=...&location=beijing&language=zh-Hans&unit=c&start=1&days=1
+```
