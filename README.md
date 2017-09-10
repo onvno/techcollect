@@ -91,8 +91,16 @@ ___
 * pkexist - 命令行查询包名
 * s2json - 命令行json文件转summary
 * IFTTT
-  * 个人站点更新发twitter
-  * 个人站点更新同步收藏evernote
-  * 微信发图文 / 文字消息同步到twitter / evernote
-  * 如果天气异常，发送短信通知（使用赛邮云通信短信接口）
+ - 个人站点更新发twitter
+ - 个人站点更新同步收藏evernote
+ - 微信发图文 / 文字消息同步到twitter / evernote
+ - 如果天气异常，发送短信通知（使用赛邮云通信短信接口）
 
+### API使用
+
+* [短信-赛邮云通信](https://www.mysubmail.com)
+```
+请求数据形式：
+{ "appid": ..., "to": number, "project": ..., "signature": ..., "vars": { "title": "rain" } }
+```
+* [天气-心知天气](https://www.seniverse.com/doc):附带[知乎:网上的天气 API 哪一个更加可靠？](https://www.zhihu.com/question/20575288)
