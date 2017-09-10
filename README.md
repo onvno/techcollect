@@ -74,7 +74,7 @@ ___
 
 ---
 
-###学习
+### 学习
 
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)油管，分类node,jsde等
 * [FreeCodeCamp](https://www.freecodecamp.com/)从前到后的实战 & 证书
@@ -86,4 +86,13 @@ ___
 
 * [Awesome Design Collect](https://github.com/gztchan/awesome-design)在程序的宇宙中心呼唤设计
 
-  ​
+### 业余清单
+
+* pkexist - 命令行查询包名
+* s2json - 命令行json文件转summary
+* IFTTT
+  * 个人站点更新发twitter
+  * 个人站点更新同步收藏evernote
+  * 微信发图文 / 文字消息同步到twitter / evernote
+  * 如果天气异常，发送短信通知（使用赛邮云通信短信接口）
+
