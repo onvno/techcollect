@@ -108,3 +108,7 @@ ___
 明日天气预报请求字段
 https://api.seniverse.com/v3/weather/daily.json?key=...&location=beijing&language=zh-Hans&unit=c&start=1&days=1
 ```
+* [和风天气](https://www.heweather.com/documents/api/v5/forecast):可以获取区域天气预报
+```
+https://free-api.heweather.com/v5/forecast?city=yourcity&key=yourkey
+```
