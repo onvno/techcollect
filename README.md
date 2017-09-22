@@ -95,6 +95,9 @@ ___
  - 个人站点更新同步收藏evernote
  - 微信发图文 / 文字消息同步到twitter / evernote
  - 如果天气异常，发送短信通知（使用赛邮云通信短信接口）
+* weatherq:mywork/mytools中，已经在个人vps部署
+* beijing:进京相关，也在mytools
+* huginns:写文章及部署测试
 
 ### API使用
 
