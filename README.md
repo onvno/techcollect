@@ -50,7 +50,16 @@
 * [清单-轻单](https://qdan.me/?from=header)
 * [xclient](http://xclient.info/?_=9a18fb9e89be99ad9e6bd36571d00b76)
 
-___
+---
+### 效率工具
+* axeslide
+* mindnode:脑图
+* dropzone3
+
+
+
+
+---
 
 ### 速查表
 * [ECMAScript Compatiable](http://kangax.github.io/compat-table/es6/)
